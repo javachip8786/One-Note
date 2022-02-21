@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "116098618643",
+    "project_id": "lefrien",
+    "storage_bucket": "lefrien.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116098618643:android:fde480c07eaf64e86bb6e6",
+        "android_client_info": {
+          "package_name": "com.example.lefrien"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116098618643-8emapvderg157f82l55qgid12kjfhob2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8iZQcVWnfz5vR2-jvQY6kIlBmwS5rciw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116098618643-8emapvderg157f82l55qgid12kjfhob2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
